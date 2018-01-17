@@ -230,7 +230,7 @@ label{
 
 /*--banner--*/
 .center-container {
-    background: rgba(0, 0, 0, 0.21);
+    /*background: rgba(0, 0, 0, 0.21);*/
 }
 .logo h1 {
     font-size: 4em;
